@@ -1,4 +1,1 @@
-# Notater
-
-
-For å lære litt om GitHub ...
+Working documents. Here we edit them before they are posted on github.io
